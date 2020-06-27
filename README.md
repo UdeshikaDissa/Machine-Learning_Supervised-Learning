@@ -10,12 +10,16 @@ https://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice
 ### Phase1: preprocess and explore the data-set in order to build the model in Phase II
 
 data-set: Data_Set.csv
+
 Python Code: Phase1.ipynb
+
 Report: s3400652_MATH2319_Phase1 Report.pdf
 
 
 ### Phase2: build a model that predicts the contraceptive method
 
 data-set: Preprocessed_Data.csv
+
 Python Code: Phase2.ipynb
+
 Report: s3400652_MATH2319_Phase2 Report.html

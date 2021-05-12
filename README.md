@@ -7,7 +7,7 @@ https://archive.ics.uci.edu/ml/datasets/Contraceptive+Method+Choice
 
 ## Phase I: 
 
-Preprocessing and exploring the data-set in order to build the model in Phase II.
+### Preprocessing and exploring the data-set in order to build the model in Phase II
 
 data-set: Data_Set.csv
 
@@ -18,7 +18,7 @@ Report: s3400652_MATH2319_Phase1 Report.pdf
 
 ## Phase II: 
 
-Building a model that predicts the contraceptive method.
+### Building a model that predicts the contraceptive method
 
 data-set: Preprocessed_Data.csv
 
